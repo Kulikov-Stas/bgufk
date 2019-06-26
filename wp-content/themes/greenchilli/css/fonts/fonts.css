@@ -1,0 +1,24 @@
+	@font-face {
+    font-family: 'mplight';
+    src: url('MyriadProLight.eot');
+    src: url('MyriadProLight.woff') format('woff'),
+         url('MyriadProLight.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+	@font-face {
+    font-family: 'mpbold';
+    src: url('MyriadPro-Bold_0.eot');
+    src: url('MyriadPro-Bold_0.woff') format('woff'),
+         url('MyriadPro-Bold_0.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+    	@font-face {
+    font-family: 'mpreg';
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.woff') format('woff'),
+         url('MyriadPro-Regular.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

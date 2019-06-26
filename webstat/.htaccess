@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/bgufk.yandex.od.ua/webstat"
+AuthUserFile /var/www/work/data/etc/107350695.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

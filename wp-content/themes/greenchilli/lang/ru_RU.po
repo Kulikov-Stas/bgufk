@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GreenChilli WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-24 11:38+0200\n"
+"PO-Revision-Date: 2013-08-24 11:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: MyThemeShop\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Error 404 Not Found"
+msgstr "Ошибка 404. Не найдено"
+
+#: ../404.php:13
+msgid "Oops! We couldn't Found this Page."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+#: ../404.php:14
+msgid "Please check your URL or use the search form below."
+msgstr ""
+"Пожалуйста, проверьте ссылку, которую вы ввели или воспользуйтесь формой "
+"поиска ниже."
+
+#: ../archive.php:9 ../archive.php:11
+msgid " Archive"
+msgstr " Архив"
+
+#: ../archive.php:13
+msgid "Search Results for:"
+msgstr "Результаты поиска:"
+
+#: ../archive.php:15
+msgid "Author Archive"
+msgstr "Архив автора"
+
+#: ../archive.php:17
+msgid "Daily Archive:"
+msgstr "Архив за день:"
+
+#: ../archive.php:19
+msgid "Monthly Archive:"
+msgstr "Архив за месяц:"
+
+#: ../archive.php:21
+msgid "Yearly Archive:"
+msgstr "Архив за год:"
+
+#: ../archive.php:45 ../index.php:31 ../single.php:14
+msgid "By "
+msgstr "Автор "
+
+#: ../archive.php:45 ../index.php:31 ../single.php:14
+msgid " On "
+msgstr " "
+
+#: ../archive.php:45 ../index.php:31 ../single.php:14
+msgid " In "
+msgstr " Рубрика "
+
+#: ../archive.php:54 ../index.php:41
+msgid "No Comments"
+msgstr "Ваш отзыв"
+
+#: ../archive.php:54 ../index.php:41
+msgid "1 Comment"
+msgstr "1 отзыв"
+
+#: ../archive.php:54 ../index.php:41
+msgid "% Comments"
+msgstr "Отзывов: %"
+
+#: ../archive.php:65 ../index.php:52
+msgid "There has been an error."
+msgstr "Произошла ошибка."
+
+#: ../archive.php:66 ../index.php:53
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+"Извините за неудобства. Пожалуйста, нажмите кнопку Назад в браузере или "
+"воспользуйтесь формой поиска."
+
+#: ../archive.php:76 ../index.php:63
+msgid "&larr; Older posts"
+msgstr "&larr; Предыдущие публикации"
+
+#: ../archive.php:77 ../index.php:64
+msgid "Newer posts &rarr;"
+msgstr "Следующие публикации &rarr;"
+
+#: ../functions.php:130
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш отзыв ожидает проверки."
+
+#: ../functions.php:134
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: ../functions.php:136
+msgid "(Edit)"
+msgstr "(Править)"
+
+#: ../index.php:45
+msgid "Read More"
+msgstr "Подробнее"
+
+#: ../sidebar.php:8
+msgid "Search"
+msgstr "Поиск"
+
+#: ../sidebar.php:13
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr "Прочее"
+
+#: ../single.php:53 ../theme-options.php:247
+msgid "Related Posts"
+msgstr "Похожие публикации"
+
+#: ../single.php:88
+msgid "About Author"
+msgstr "Об авторе"
+
+#: ../theme-options.php:22
+msgid "A Section added by hook"
+msgstr "Секция добавленная через хук"
+
+#: ../theme-options.php:23
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">Эта секция создана с помощью добавления фильтра в "
+"массив секций, используется для дочерних тем и добавления/удаления секций из "
+"настроек.</p>"
+
+#: ../theme-options.php:93 ../theme-options.php:96
+msgid "GreenChilli"
+msgstr "GreenChilli"
+
+#: ../theme-options.php:120
+msgid "Support"
+msgstr "Поддержка"
+
+#: ../theme-options.php:121
+msgid ""
+"<p>If you are facing any problem with our theme or theme option panel, head "
+"over to our <a href=\"http://community.mythemeshop.com\">Support Forum</a></"
+"p>"
+msgstr ""
+"<p>Если у вас возникают проблемы с темой или панелью настроек, поищите "
+"решение на нашем <a href=\"http://community.mythemeshop.com\">форуме "
+"поддержки</a></p>"
+
+#: ../theme-options.php:125
+msgid "Credit"
+msgstr "Благодарность"
+
+#: ../theme-options.php:126
+msgid ""
+"<p>Options Panel created using the <a href=\"http://leemason.github.com/NHP-"
+"Theme-Options-Framework/\" target=\"_blank\">NHP Theme Options Framework</a> "
+"Version 1.0.5</p>"
+msgstr ""
+"<p>Панель настроек создана с использованием <a href=\"http://leemason.github."
+"com/NHP-Theme-Options-Framework/\" target=\"_blank\">NHP Theme Options "
+"Framework</a> версии 1.0.5</p>"
+
+#: ../theme-options.php:130
+msgid "Earn Money"
+msgstr "Заработайте с нами"
+
+#: ../theme-options.php:131
+#, php-format
+msgid ""
+"<p>Earn 50% commision on every sale by refering your friends and readers. "
+"Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate "
+"Program</a>.</p>"
+msgstr ""
+"<p>Earn 50% commission on every sale by referring your friends and readers. "
+"Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate "
+"Program</a>.</p>"
+
+#: ../theme-options.php:143
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../theme-options.php:144
+msgid ""
+"<p class=\"description\">This tab contains common setting options which will "
+"be applied to whole theme.</p>"
+msgstr ""
+"<p class=\"description\">Эта вкладка содержит обычные настройки, которые "
+"будут применены ко всей теме.</p>"
+
+#: ../theme-options.php:150
+msgid "Logo Image"
+msgstr "Лого"
+
+#: ../theme-options.php:151
+msgid ""
+"Upload your logo <strong>(286 x 50 px)</strong> using the Upload Button or "
+"insert image URL."
+msgstr ""
+"Загрузите свой логотип <strong>(286 x 50 px)</strong> используя кнопку "
+"загрузки или вставьте адрес изображения."
+
+#: ../theme-options.php:156
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../theme-options.php:157
+msgid ""
+"Upload a <strong>16 x 16 px</strong> image that will represent your "
+"website's favicon. You can refer to this link for more information on how to "
+"make it: <a href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow"
+"\">http://www.favicon.cc/</a>"
+msgstr ""
+"Загрузите изображение <strong>16 x 16 px</strong> для фавиконки вашего "
+"сайта. Подробнее узнать о том, как создать фавиконку вы можете здесь: <a "
+"href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow\">http://www."
+"favicon.cc/</a>"
+
+#: ../theme-options.php:162
+msgid "Header Code"
+msgstr "Код в секции head"
+
+#: ../theme-options.php:163
+msgid ""
+"Enter the code which you need to place <strong>before closing </head> tag</"
+"strong>. (ex: Google Webmaster Tools verification, Bing Webmaster Center, "
+"BuySellAds Script, Alexa verification etc.)"
+msgstr ""
+"Введите код, который вы хотите поместить <strong>перед закрывающим тегом </"
+"head></strong> (код подтверждения для Google Webmaster Tools, Alexa-"
+"подтверждение и пр.)."
+
+#: ../theme-options.php:168
+msgid "Footer Code"
+msgstr "Код в нижней части сайа"
+
+#: ../theme-options.php:169
+msgid ""
+"Enter the codes which you need to place in your footer. <strong>(ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr ""
+"Введите код, который необходимо разместить в нижней части сайта. <strong>"
+"(Google Analytics и пр.)</strong>."
+
+#: ../theme-options.php:174
+msgid "Copyrights Text"
+msgstr "Копирайты"
+
+#: ../theme-options.php:175
+msgid ""
+"You can change or remove our link from footer and use your own custom text. "
+"(Link back is always appreciated)"
+msgstr ""
+"Вы можете изменить или удалить ссылки в подвале, или использовать ваш "
+"собственный текст (обратная ссылка всегда приветствуется). "
+
+#: ../theme-options.php:181
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: ../theme-options.php:182
+msgid ""
+"Enable or disable paginated navigation, which replaces the <strong>\"Older "
+"Posts\"</strong> and <strong>\"Newer Posts\"</strong> links with helpful "
+"numbered page links."
+msgstr ""
+"Включить или отключить пагинацию, которая заменяет стандартную навигацию "
+"<strong>\"Предыдущие публикации\"</strong> и <strong>\"Следующие публикации"
+"\"</strong> нумерованным списком страниц."
+
+#: ../theme-options.php:189
+msgid "Styling Options"
+msgstr "Настройки стилей"
+
+#: ../theme-options.php:190
+msgid ""
+"<p class=\"description\">Control the visual appearance of your theme, such "
+"as colors, layout and patterns, from here.</p>"
+msgstr ""
+"<p class=\"description\">Вы можете контролировать внешний вид темы, "
+"например, цветовую схему, расположение колонок и узоры.</p>"
+
+#: ../theme-options.php:195
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: ../theme-options.php:196
+msgid "Theme comes with unlimited color schemes for your theme's styling."
+msgstr ""
+"Тема дает вам возможность выбирать неограниченное количество цветов для "
+"создания неповторимого вида."
+
+#: ../theme-options.php:202
+msgid "Layout Style"
+msgstr "Расположение информации"
+
+#: ../theme-options.php:203
+msgid "Choose from <strong>2 different layouts</strong> for your site."
+msgstr ""
+"Выберите <strong>один из двух вариантов расположения информации</strong> на "
+"вашем сайте."
+
+#: ../theme-options.php:213
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../theme-options.php:214
+msgid ""
+"Pick any color using the <strong>color picker</strong>, or enter a hex color "
+"value in the input field to make it the site background color for your theme."
+msgstr ""
+"Выберите любой цвет используя <strong>color picker</strong>, или введите hex "
+"значение цвета в поле, чтобы установить цвет фона для вашей темы."
+
+#: ../theme-options.php:220
+msgid "Custom Background Image"
+msgstr "Изображение фона"
+
+#: ../theme-options.php:221
+msgid "Upload your own custom background image or pattern."
+msgstr "Загрузите свое собственное изображение или узор для фона."
+
+#: ../theme-options.php:226
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: ../theme-options.php:227
+msgid ""
+"You can enter your own custom CSS here to further customize your theme. This "
+"will override the default CSS used on your site."
+msgstr ""
+"Вы можете ввести свои собственные стили CSS для дальнейшей кастомизации "
+"темы. Эти стили перезапишут стили для сайта, которые используются по-"
+"умолчанию."
+
+#: ../theme-options.php:233
+msgid "Single Posts"
+msgstr "Отдельные статьи"
+
+#: ../theme-options.php:234
+msgid ""
+"<p class=\"description\">From here, you can control the appearance and "
+"functionality of your single posts page.</p>"
+msgstr ""
+"<p class=\"description\">Вы можете контролировать внешний вид и "
+"функциональность страниц отдельных статей.</p>"
+
+#: ../theme-options.php:239
+msgid "Post Meta Info."
+msgstr "Информация о публикации"
+
+#: ../theme-options.php:241
+msgid ""
+"Use this button to Show or Hide Post Meta Info <strong>Author name and "
+"Categories</strong>."
+msgstr ""
+"Используйте эту кнопку, чтобы показать или спрятать такую информацию как "
+"<strong>имя автора и рубрики</strong>."
+
+#: ../theme-options.php:249
+msgid ""
+"Use this button to show related posts with thumbnails below the content area "
+"in a post."
+msgstr ""
+"Используйте эту кнопку чтобы показать похожие статьи с миниатюрами под "
+"текстом публикации."
+
+#: ../theme-options.php:255
+msgid "Tag Links"
+msgstr "Метки"
+
+#: ../theme-options.php:257
+msgid ""
+"Use this button if you want to show a tag cloud below the related posts."
+msgstr ""
+"Используйте эту кнопку если вы хотите показать облако меток под похожими "
+"статьями."
+
+#: ../theme-options.php:263
+msgid "Author Box"
+msgstr "Информация об авторе"
+
+#: ../theme-options.php:265
+msgid ""
+"Use this button if you want to display author information below the article."
+msgstr ""
+"Используйте эту кнопку, если хотите показать информацию об авторе под "
+"статьей."
+
+#: ../theme-options.php:272
+msgid "Ad Management"
+msgstr "Управление рекламой"
+
+#: ../theme-options.php:273
+msgid ""
+"<p class=\"description\">Now, ad management is easy with our options panel. "
+"You can control everything from here, without using separate plugins.</p>"
+msgstr ""
+"<p class=\"description\">Теперь управлять рекламой легко через нашу панель "
+"управления. Вы можете контролировать все отсюда без необходимости "
+"использовать дополнительные плагины</p>"
+
+#: ../theme-options.php:278
+msgid "Below Post Title"
+msgstr "Под заголовком публикации"
+
+#: ../theme-options.php:279
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below your article "
+"title on single posts."
+msgstr ""
+"Вставьте рекламу Adsense, Яндекс.Директ или другой код для показа рекламы "
+"под заголовком статьи на странице отдельной статьи."
+
+#: ../theme-options.php:284
+msgid "Below Post Content"
+msgstr "Под текстом статьи"
+
+#: ../theme-options.php:285
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below the post "
+"content on single posts."
+msgstr ""
+"Вставьте рекламу Adsense, Яндекс.Директ или другой код для показа рекламы "
+"под текстом статьи на странице отдельной статьи."
+
+#: ../theme-options.php:291
+msgid "Navigation"
+msgstr "Навигация"
+
+#: ../theme-options.php:292
+msgid ""
+"<p class=\"description\"><div class=\"controls\"><b>Navigation settings can "
+"now be modified from the <a href=\"nav-menus.php\">Menus Section</a>.</"
+"b><br></div></p>"
+msgstr ""
+"<p class=\"description\"><div class=\"controls\"><b>Настройки навигации "
+"могут быть изменены через раздел <a href=\"nav-menus.php\">меню</a>.</"
+"b><br></div></p>"
+
+#: ../theme-options.php:302
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../functions/widget-ad125.php:33
+msgid "A widget for 125 x 125 ad unit (maximum 6 ads)"
+msgstr "Виджет для рекламы 125 x 125 (максимум 6 банеров)"
+
+#: ../functions/widget-ad125.php:44
+msgid "MyThemeShop: 125x125 Ads"
+msgstr "MyThemeShop: Банеры 125x125"
+
+#: ../functions/widget-ad125.php:202 ../functions/widget-ad300.php:118
+#: ../functions/widget-social.php:160 ../functions/widget-subscribe.php:114
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ../functions/widget-ad125.php:208
+msgid "Ad 1 image url:"
+msgstr "Изображение банера #1:"
+
+#: ../functions/widget-ad125.php:214
+msgid "Ad 1 link url:"
+msgstr "Ссылка с банера #1:"
+
+#: ../functions/widget-ad125.php:220
+msgid "Ad 2 image url:"
+msgstr "Изображение банера #2:"
+
+#: ../functions/widget-ad125.php:226
+msgid "Ad 2 link url:"
+msgstr "Ссылка с банера #2:"
+
+#: ../functions/widget-ad125.php:232
+msgid "Ad 3 image url:"
+msgstr "Изображение банера #3:"
+
+#: ../functions/widget-ad125.php:238
+msgid "Ad 3 link url:"
+msgstr "Ссылка с банера #3:"
+
+#: ../functions/widget-ad125.php:244
+msgid "Ad 4 image url:"
+msgstr "Изображение банера #4:"
+
+#: ../functions/widget-ad125.php:250
+msgid "Ad 4 link url:"
+msgstr "Ссылка с банера #4:"
+
+#: ../functions/widget-ad125.php:256
+msgid "Ad 5 image url:"
+msgstr "Изображение банера #5:"
+
+#: ../functions/widget-ad125.php:262
+msgid "Ad 5 link url:"
+msgstr "Ссылка с банера #5:"
+
+#: ../functions/widget-ad125.php:268
+msgid "Ad 6 image url:"
+msgstr "Изображение банера #6:"
+
+#: ../functions/widget-ad125.php:274
+msgid "Ad 6 link url:"
+msgstr "Ссылка с банера #6:"
+
+#: ../functions/widget-ad125.php:280
+msgid "Randomize ads order?"
+msgstr "Показывать в произвольном порядке?"
+
+#: ../functions/widget-ad300.php:33
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr "Виджет для рекламы 300 x 250 (один банер)"
+
+#: ../functions/widget-ad300.php:44
+msgid "MyThemeShop: 300x250 Ad"
+msgstr "MyThemeShop: Банер 300x250"
+
+#: ../functions/widget-ad300.php:124
+msgid "Ad image url:"
+msgstr "Изображение банера:"
+
+#: ../functions/widget-ad300.php:130
+msgid "Ad link url:"
+msgstr "Ссылка с банера:"
+
+#: ../functions/widget-social.php:76
+msgid "Dribbble URI"
+msgstr "Адрес Dribbble"
+
+#: ../functions/widget-social.php:80
+msgid "Email URI"
+msgstr "Email"
+
+#: ../functions/widget-social.php:84
+msgid "Facebook URI"
+msgstr "Адрес Facebook"
+
+#: ../functions/widget-social.php:88
+msgid "Google+ URI"
+msgstr "Адрес Google+"
+
+#: ../functions/widget-social.php:92
+msgid "Linkedin URI"
+msgstr "Адрес Linkedin"
+
+#: ../functions/widget-social.php:96
+msgid "Pinterest URI"
+msgstr "Адрес Pinterest"
+
+#: ../functions/widget-social.php:100
+msgid "RSS URI"
+msgstr "Адрес RSS"
+
+#: ../functions/widget-social.php:104
+msgid "StumbleUpon URI"
+msgstr "Адрес StumbleUpon"
+
+#: ../functions/widget-social.php:108
+msgid "Twitter URI"
+msgstr "Адрес Twitter"
+
+#: ../functions/widget-social.php:112
+msgid "YouTube URI"
+msgstr "Адрес YouTube"
+
+#: ../functions/widget-social.php:116
+msgid "Flickr URI"
+msgstr "Адрес Flickr"
+
+#: ../functions/widget-social.php:120
+msgid "Lastfm URI"
+msgstr "Адрес Lastfm"
+
+#: ../functions/widget-social.php:124
+msgid "Tumblr URI"
+msgstr "Адрес Tumblr"
+
+#: ../functions/widget-social.php:128
+msgid "Vimeo URI"
+msgstr "Адрес Vimeo"
+
+#: ../functions/widget-social.php:135
+msgid "Show profile icons."
+msgstr "Показывать иконки профиля."
+
+#: ../functions/widget-social.php:144
+msgid "MyThemeShop: Social Profile Icons"
+msgstr "MyThemeShop: Социальные иконки"
+
+#: ../functions/widget-subscribe.php:30
+msgid "Feedburner Subscription Widget."
+msgstr "Виджет подписки на Feedburner"
+
+#: ../functions/widget-subscribe.php:36
+msgid "MyThemeShop: Subscribe Widget"
+msgstr "MyThemeShop: Виджет подписки"
+
+#: ../functions/widget-subscribe.php:120
+msgid "Feedburner id (http://feeds.feedburner.com/<b>mythemeshop</b>):"
+msgstr "Id Feedburner (http://feeds.feedburner.com/<b>mythemeshop</b>):"
+
+#: ../functions/widget-tweets.php:13
+msgid "A widget for showing latest tweets in sidebar"
+msgstr "Виджет показывает последние твиты в боковой колонке"
+
+#: ../options/options.php:47 ../options/options.php:49
+msgid "Options"
+msgstr "Настройки"
+
+#: ../options/options.php:587
+msgid "Save Changes"
+msgstr "Сохранить настройки"
+
+#: ../options/options.php:594
+msgid "<strong>Settings Imported!</strong>"
+msgstr "<strong>Настройки импортированы!</strong>"
+
+#: ../options/options.php:596
+msgid "<strong>Settings Saved!</strong>"
+msgstr "<strong>Настройки сохранены!</strong>"
+
+#: ../options/options.php:600
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr "<strong>Настройки изменены! Вы должны сохранить их!</strong>"
+
+#: ../options/options.php:601
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr "<strong><span></span> ошибок было найдено!</strong>"
+
+#: ../options/options.php:603
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr "<strong><span></span> предупреждений было найдено!</strong>"
+
+#: ../options/options.php:624
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: ../options/options.php:643 ../options/options.php:725
+msgid "Dev Mode Info"
+msgstr "Информация для отладки"
+
+#: ../options/options.php:661
+msgid "Import / Export Options"
+msgstr "Настройки импорта /экспорта"
+
+#: ../options/options.php:663
+msgid "Import Options"
+msgstr "Настройки импорта"
+
+#: ../options/options.php:671
+msgid ""
+"Input your backup code below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Введите свой код бекапа ниже и нажмите Импорт, чтобы возобновить настройки "
+"сайта из бекапа."
+
+#: ../options/options.php:684
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Введите адрес настроек другого сайта и нажмите Импорт, чтобы загрузить опции "
+"с этого сайта."
+
+#: ../options/options.php:694
+msgid "Import"
+msgstr "Импорт"
+
+#: ../options/options.php:694
+msgid ""
+"WARNING! Importing options will overwrite your existing options, please "
+"proceed with caution and consider exporting your current options as backups."
+msgstr ""
+"ВНИМАНИЕ! Импорт опций перезапишет все существующие опции темы, пожалуйста, "
+"используйте с осторожностью, и сделайте бекап ваших текущих опций"
+
+#: ../options/options.php:697
+msgid "Export Options"
+msgstr "Настройки экспорта"
+
+#: ../options/options.php:699
+msgid ""
+"Here, you can export and download your current options settings.  Keep this "
+"safe, as you can use it for backup in case of an emergency.  You can also "
+"use this to restore settings on this site, or on any other site using this "
+"theme.  You can also copy the link to your settings, and duplicate it to "
+"another site, which is useful if you have a network of blogs that all need "
+"the same settings."
+msgstr ""
+"Вы можете экспортировать и загрузить ваши текущие настройки темы. Вы можете "
+"использовать эту опцию для бекапа, а также возобновить эти настройки на этом "
+"сайте или другом, использующем эту тему. Вы можете также скопировать ссылку "
+"к вашим настройкам и продублировать ее на другом сайте, что полезно, если у "
+"Вас сеть сайтов, которые используют одни и те же настройки."
+
+#: ../options/options.php:752
+msgid "Reset to Defaults"
+msgstr "Сбросить к настройкам по-умолчанию"
+
+#: ../options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr "От:"
+
+#: ../options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr " К:"
+
+#: ../options/fields/multi_text/field_multi_text.php:39
+#: ../options/fields/multi_text/field_multi_text.php:46
+#: ../options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr "Удалить"
+
+#: ../options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr "Добавить еще"
+
+#: ../options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr "Посмотреть"
+
+#: ../options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr "Удалить загрузку"
+
+#: ../options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr "Это поле должно иметь валидное цветовое значение."
+
+#: ../options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+"Вы должны предоставить разделенный запятыми список цифровых значений для "
+"этой опции."
+
+#: ../options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr "В этом поле должна быть валидная дата."
+
+#: ../options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr "Вы должны предоставить валидный email для этой опции."
+
+#: ../options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Вы не должны вводить никакие теги HTML в это поле, т.к. они будут удалены."
+
+#: ../options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Вы не должны вводить никакие специальные символы в это поле. т.к. они будут "
+"удалены."
+
+#: ../options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr "Вы должны предоставить цифровое значение для этой опции."
+
+#: ../options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr "Вы должны предоставить валидную ссылку для этой опции."
+
+#~ msgid "MyThemeShop: Latest Tweets"
+#~ msgstr "MyThemeShop: Последние твиты"
+
+#~ msgid "Twitter Username e.g. mythemeshopteam"
+#~ msgstr "Имя в Twitter, например, mythemeshopteam"
+
+#~ msgid "Number of tweets (max 20)"
+#~ msgstr "Количество твитов (максимум 20)"
+
+#~ msgid "Follow Text e.g. Follow me on Twitter"
+#~ msgstr "Заголовок, например, следите за мной на Twitter"
